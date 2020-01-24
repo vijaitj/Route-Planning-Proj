@@ -1,6 +1,6 @@
 # Route Planning Project
 
-This repo contains the code written to complete the Route Planning project from the Udacity C++ nano degree program.
+This repo contains the code written to complete the Route Planning project.
 
 <img src="map.png" width="600" height="450" />
 
