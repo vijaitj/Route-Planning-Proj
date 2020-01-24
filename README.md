@@ -1,6 +1,6 @@
 # Route Planning Project
 
-A toy Project to find the path between two points on a map using the A* search. It uses data from the OpenStreetMap project.
+A toy project to find the path between two points on a map using the A* search. It uses data from the OpenStreetMap project.
 
 <img src="map.png" width="600" height="450" />
 
